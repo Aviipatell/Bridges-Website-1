@@ -12,4 +12,6 @@ The project was built using Django (Python), HTML, CSS and Javascript.
 
 # Authors:
 
+Andrick Punit
 Avi Patel
+Varun Garg
